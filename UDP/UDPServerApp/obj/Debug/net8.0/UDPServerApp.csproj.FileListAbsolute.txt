@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\bin\Debug\net8.0\UDPServerApp.exe
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\bin\Debug\net8.0\UDPServerApp.deps.json
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\bin\Debug\net8.0\UDPServerApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\bin\Debug\net8.0\UDPServerApp.dll
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\bin\Debug\net8.0\UDPServerApp.pdb
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.dll
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\refint\UDPServerApp.dll
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.pdb
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\UDPServerApp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\UDP\UDPServerApp\obj\Debug\net8.0\ref\UDPServerApp.dll

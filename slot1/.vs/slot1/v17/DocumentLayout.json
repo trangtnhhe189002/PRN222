@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\slot1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176CD060-1A59-4CCC-95A8-0C9366BD370D}|slot1\\slot1.csproj|d:\\prn222\\slot1\\slot1\\response_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CD060-1A59-4CCC-95A8-0C9366BD370D}|slot1\\slot1.csproj|solutionrelative:slot1\\response_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CD060-1A59-4CCC-95A8-0C9366BD370D}|slot1\\slot1.csproj|d:\\prn222\\slot1\\slot1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CD060-1A59-4CCC-95A8-0C9366BD370D}|slot1\\slot1.csproj|solutionrelative:slot1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "response_request.cs",
+              "DocumentMoniker": "D:\\PRN222\\slot1\\slot1\\response_request.cs",
+              "RelativeDocumentMoniker": "slot1\\response_request.cs",
+              "ToolTip": "D:\\PRN222\\slot1\\slot1\\response_request.cs",
+              "RelativeToolTip": "slot1\\response_request.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:47:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\slot1\\slot1\\Program.cs",
+              "RelativeDocumentMoniker": "slot1\\Program.cs",
+              "ToolTip": "D:\\PRN222\\slot1\\slot1\\Program.cs",
+              "RelativeToolTip": "slot1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:16:08.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
