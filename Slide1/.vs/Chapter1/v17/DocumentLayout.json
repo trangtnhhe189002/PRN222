@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Chapter1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}|UDPServerApp\\UDPServerApp.csproj|d:\\prn222\\chapter1\\udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}|UDPServerApp\\UDPServerApp.csproj|solutionrelative:udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78507CDF-F788-47E9-AD99-136ECEDE1015}|UDPClientApp\\UDPClientApp.csproj|d:\\prn222\\chapter1\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78507CDF-F788-47E9-AD99-136ECEDE1015}|UDPClientApp\\UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}|UnderstandingDNS\\UnderstandingDNS.csproj|d:\\prn222\\chapter1\\understandingdns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}|UnderstandingDNS\\UnderstandingDNS.csproj|solutionrelative:understandingdns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}|HttpClientClassDemo-01\\HttpClientClassDemo-01.csproj|d:\\prn222\\chapter1\\httpclientclassdemo-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}|HttpClientClassDemo-01\\HttpClientClassDemo-01.csproj|solutionrelative:httpclientclassdemo-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}|WebRequest\u0026WebResponseDemo\\WebRequest\u0026WebResponseDemo.csproj|d:\\prn222\\chapter1\\webrequest\u0026webresponsedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}|WebRequest\u0026WebResponseDemo\\WebRequest\u0026WebResponseDemo.csproj|solutionrelative:webrequest\u0026webresponsedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464B3813-C35F-4C23-B36D-0FAD3E50391E}|URIsDemo\\URIsDemo.csproj|d:\\prn222\\chapter1\\urisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464B3813-C35F-4C23-B36D-0FAD3E50391E}|URIsDemo\\URIsDemo.csproj|solutionrelative:urisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Chapter1\\UDPClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientApp\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Chapter1\\UDPClientApp\\Program.cs",
+              "RelativeToolTip": "UDPClientApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:24:29.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Chapter1\\UDPServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServerApp\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Chapter1\\UDPServerApp\\Program.cs",
+              "RelativeToolTip": "UDPServerApp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:24:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Chapter1\\UnderstandingDNS\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingDNS\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Chapter1\\UnderstandingDNS\\Program.cs",
+              "RelativeToolTip": "UnderstandingDNS\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA/wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:20:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Chapter1\\HttpClientClassDemo-01\\Program.cs",
+              "RelativeDocumentMoniker": "HttpClientClassDemo-01\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Chapter1\\HttpClientClassDemo-01\\Program.cs",
+              "RelativeToolTip": "HttpClientClassDemo-01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:18:39.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Chapter1\\WebRequest\u0026WebResponseDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebRequest\u0026WebResponseDemo\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Chapter1\\WebRequest\u0026WebResponseDemo\\Program.cs",
+              "RelativeToolTip": "WebRequest\u0026WebResponseDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:15:46.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Chapter1\\URIsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "URIsDemo\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Chapter1\\URIsDemo\\Program.cs",
+              "RelativeToolTip": "URIsDemo\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:14:33.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

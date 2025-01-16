@@ -1,0 +1,15 @@
+D:\PRN222\Chapter1\UnderstandingDNS\bin\Debug\net8.0\UnderstandingDNS.exe
+D:\PRN222\Chapter1\UnderstandingDNS\bin\Debug\net8.0\UnderstandingDNS.deps.json
+D:\PRN222\Chapter1\UnderstandingDNS\bin\Debug\net8.0\UnderstandingDNS.runtimeconfig.json
+D:\PRN222\Chapter1\UnderstandingDNS\bin\Debug\net8.0\UnderstandingDNS.dll
+D:\PRN222\Chapter1\UnderstandingDNS\bin\Debug\net8.0\UnderstandingDNS.pdb
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.AssemblyInfoInputs.cache
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.AssemblyInfo.cs
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.csproj.CoreCompileInputs.cache
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.sourcelink.json
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.dll
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\refint\UnderstandingDNS.dll
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.pdb
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\UnderstandingDNS.genruntimeconfig.cache
+D:\PRN222\Chapter1\UnderstandingDNS\obj\Debug\net8.0\ref\UnderstandingDNS.dll

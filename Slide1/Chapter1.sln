@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URIsDemo", "URIsDemo\URIsDemo.csproj", "{464B3813-C35F-4C23-B36D-0FAD3E50391E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequest&WebResponseDemo", "WebRequest&WebResponseDemo\WebRequest&WebResponseDemo.csproj", "{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientClassDemo-01", "HttpClientClassDemo-01\HttpClientClassDemo-01.csproj", "{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingDNS", "UnderstandingDNS\UnderstandingDNS.csproj", "{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerApp", "UDPServerApp\UDPServerApp.csproj", "{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientApp", "UDPClientApp\UDPClientApp.csproj", "{78507CDF-F788-47E9-AD99-136ECEDE1015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464B3813-C35F-4C23-B36D-0FAD3E50391E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464B3813-C35F-4C23-B36D-0FAD3E50391E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464B3813-C35F-4C23-B36D-0FAD3E50391E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464B3813-C35F-4C23-B36D-0FAD3E50391E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D58A813-B32D-4BEE-ADBF-9EC1762E6F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EB966A-C5C0-4579-8B86-A4E7918A4FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA3CA3C-2C06-4669-B798-3EFF89B52C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F0604E-8FA4-436B-BBBB-8FCABE4A26A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78507CDF-F788-47E9-AD99-136ECEDE1015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78507CDF-F788-47E9-AD99-136ECEDE1015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78507CDF-F788-47E9-AD99-136ECEDE1015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78507CDF-F788-47E9-AD99-136ECEDE1015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541786D6-C9E7-467A-8721-41208F037C56}
+	EndGlobalSection
+EndGlobal

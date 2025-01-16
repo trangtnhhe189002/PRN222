@@ -1,0 +1,15 @@
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.exe
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.deps.json
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.runtimeconfig.json
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.dll
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\bin\Debug\net8.0\WebRequest&WebResponseDemo.pdb
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.AssemblyInfoInputs.cache
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.AssemblyInfo.cs
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.csproj.CoreCompileInputs.cache
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.sourcelink.json
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.dll
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\refint\WebRequest&WebResponseDemo.dll
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.pdb
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\WebRequest&WebResponseDemo.genruntimeconfig.cache
+D:\PRN222\Chapter1\WebRequest&WebResponseDemo\obj\Debug\net8.0\ref\WebRequest&WebResponseDemo.dll
